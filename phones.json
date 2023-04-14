@@ -1,0 +1,99 @@
+[
+    {
+        "brand": "Samsung",
+        "model": "Galaxy S21",
+        "year": 2021,
+        "display": {
+          "size": 6.2,
+          "resolution": "1080 x 2400 pixels",
+          "type": "Dynamic AMOLED 2X"
+        },
+        "camera": {
+          "main": {
+            "resolution": "12 MP",
+            "aperture": "f/1.8",
+            "features": "Dual Pixel PDAF, OIS"
+          },
+          "ultrawide": {
+            "resolution": "12 MP",
+            "aperture": "f/2.2",
+            "features": "120-degree field of view"
+          },
+          "telephoto": {
+            "resolution": "64 MP",
+            "aperture": "f/2.0",
+            "features": "3x hybrid zoom, OIS"
+          }
+        },
+        "battery": {
+          "capacity": 4000,
+          "type": "Li-Po",
+          "charging": "Fast charging 25W"
+        },
+        "price": 799
+      },
+      
+      {
+        "brand": "Apple",
+        "model": "iPhone 13",
+        "year": 2021,
+        "display": {
+          "size": 6.1,
+          "resolution": "1170 x 2532 pixels",
+          "type": "Super Retina XDR OLED"
+        },
+        "camera": {
+          "main": {
+            "resolution": "12 MP",
+            "aperture": "f/1.6",
+            "features": "Sensor-shift OIS, Dual Pixel PDAF"
+          },
+          "ultrawide": {
+            "resolution": "12 MP",
+            "aperture": "f/2.4",
+            "features": "120-degree field of view"
+          },
+          "telephoto": {
+            "resolution": "12 MP",
+            "aperture": "f/2.0",
+            "features": "2x optical zoom"
+          }
+        },
+        "battery": {
+          "capacity": 2815,
+          "type": "Li-Ion",
+          "charging": "Fast charging 20W"
+        },
+        "price": 799
+      },
+      
+      {
+        "brand": "Google",
+        "model": "Pixel 6",
+        "year": 2021,
+        "display": {
+          "size": 6.4,
+          "resolution": "1080 x 2400 pixels",
+          "type": "AMOLED"
+        },
+        "camera": {
+          "main": {
+            "resolution": "50 MP",
+            "aperture": "f/1.9",
+            "features": "Dual Pixel PDAF, OIS"
+          },
+          "ultrawide": {
+            "resolution": "12 MP",
+            "aperture": "f/2.2",
+            "features": "Ultra-wide"
+          }
+        },
+        "battery": {
+          "capacity": 4614,
+          "type": "Li-Po",
+          "charging": "Fast charging 30W"
+        },
+        "price": 599
+      }
+      
+]
